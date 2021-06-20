@@ -1,1 +1,1 @@
-web:    django-admin runserver
+web:    gunicorn dodgetheball.wsgi
