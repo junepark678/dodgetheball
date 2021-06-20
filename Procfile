@@ -1,1 +1,1 @@
-web:    gunicorn dodgetheball.wsgi
+web: gunicorn dodgetheball.wsgi
